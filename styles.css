@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-color: #dac0ff;
+    /* background-image: linear-gradient(to right, #dac0ff, #dac0ff); */
+    height: 100vh;
+    background-size: cover;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.speed-typing-container {
+    color: #3e4c59;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading {
+    color: #690cb0;
+    text-align: center;
+}
+
+.sub-heading {
+    font-weight: bold;
+    text-align: center;
+}
+
+.clock-pic {
+    width: 60px;
+    height: 60px;
+}
+
+.timer-text {
+    font-size: 40px;
+}
+
+.spin {
+    background-color: white;
+    color: white;
+}
+
+.quote-display-container {
+    background-color: #f3eaff;
+    border-radius: 10px;
+    width: 70vw;
+}
+
+.quote-display {
+    font-weight: bold;
+}
+
+.result-text {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.submitButt {
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 100px;
+    font-weight: bold;
+}
+
+.resetButt {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 100px;
+    font-weight: bold;
+}
